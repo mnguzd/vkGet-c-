@@ -1,0 +1,9 @@
+C:\Users\roman\Desktop\Coding\Projects C#\VKgetter\bin\Debug\VKgetter.exe.config
+C:\Users\roman\Desktop\Coding\Projects C#\VKgetter\bin\Debug\VKgetter.exe
+C:\Users\roman\Desktop\Coding\Projects C#\VKgetter\bin\Debug\VKgetter.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\VKgetter\obj\Debug\VKgetter.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\Coding\Projects C#\VKgetter\obj\Debug\VKgetter.Properties.Resources.resources
+C:\Users\roman\Desktop\Coding\Projects C#\VKgetter\obj\Debug\VKgetter.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\Coding\Projects C#\VKgetter\obj\Debug\VKgetter.exe
+C:\Users\roman\Desktop\Coding\Projects C#\VKgetter\obj\Debug\VKgetter.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\VKgetter\obj\Debug\VKgetter.Form1.resources
